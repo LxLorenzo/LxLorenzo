@@ -4,7 +4,7 @@
 
 ##
 
-<p>Estudante de Sistemas de Informação <strong>1/8</strong></p>
+<p>Estudante de Sistemas de Informação <strong>2/8</strong></p>
 <p>Atualmente procurando uma oportunidade de colocar em prática o que aprendi na faculdade e ampliar meus conhecimentos.</p>
 <p>Entre em contato!</p>
 
