@@ -5,7 +5,7 @@
 ##
 
 <p>Estudante de Sistemas de Informação <strong>2/8</strong></p>
-<p>Atualmente procurando uma oportunidade de colocar em prática o que aprendi na faculdade e ampliar meus conhecimentos.</p>
+<p>Sou um entusiasta da web e sou movido pelo desafio de criar interfaces interativas e responsivas que proporcionem uma experiência excepcional aos usuários. Com um olhar atento ao design e à usabilidade, sempre busco aprimorar minhas habilidades para oferecer soluções modernas e inovadoras.</p>
 <p>Entre em contato!</p>
 
 ##
