@@ -21,6 +21,9 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img align="center" alt="Typescript" height="30" width="40" title="TypeScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">  
   </a>
+  <a href="https://www.java.com/pt-BR/" target="_blank" rel="noreferrer">
+    <img align="center" alt="Java" height="30" width="40" title="Java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">  
+  </a>
   <a href="https://react.dev/" target="_blank" rel="noreferrer">
     <img align="center" alt="React" height="30" width="40" title="React.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   </a>
