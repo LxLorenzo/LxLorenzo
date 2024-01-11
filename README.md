@@ -21,9 +21,6 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img align="center" alt="Typescript" height="30" width="40" title="TypeScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">  
   </a>
-  <a href="https://www.java.com/pt-BR/" target="_blank" rel="noreferrer">
-    <img align="center" alt="Java" height="30" width="40" title="Java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">  
-  </a>
   <a href="https://react.dev/" target="_blank" rel="noreferrer">
     <img align="center" alt="React" height="30" width="40" title="React.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   </a>
@@ -32,12 +29,6 @@
   </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img align="center" alt="TailwindCSS" height="30" width="40" title="TailwindCSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg"> 
-  </a>
-  <a href="https://styled-components.com/" target="_blank" rel="noreferrer">
-    <img align="center" alt="Styled Components" height="30" width="40" title="StyleComponents" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/StyledComponents.svg">
-  </a>
-  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-    <img align="center" alt="Bootstrap" height="30" width="40" title="Bootstrap" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
   </a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
     <img align="center" alt="VSCode" height="30" width="40" title="Visual Studio Code" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
