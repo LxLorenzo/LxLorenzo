@@ -4,7 +4,7 @@
 
 <h1 align="left">Desenvolvedor Front-end</h1>
 <p align="left">Sou um entusiasta da web e sou movido pelo desafio de criar interfaces interativas e responsivas que proporcionem uma experiência excepcional aos usuários. Com um olhar atento ao design e à usabilidade, sempre busco aprimorar minhas habilidades para oferecer soluções modernas e inovadoras.</p>
-<p>💻 (4/8) Sistemas de Informação - <a href="https://www.cruzeirodosul.edu.br/" target="_blank" rel="noreferrer">Universidade Cruzeiro do Sul</a></p>
+<p>💻 (5/8) Sistemas de Informação - <a href="https://www.cruzeirodosul.edu.br/" target="_blank" rel="noreferrer">Universidade Cruzeiro do Sul</a></p>
 <p>Confira meu portfólio: <a href="https://lorenzo-casa.vercel.app/" target="_blank" rel="noreferrer">Clique aqui</a></p>
 
 <div align="left">
